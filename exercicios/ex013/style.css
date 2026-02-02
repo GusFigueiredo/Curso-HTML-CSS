@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(178, 204, 204);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+    background-color: aqua;
+}
+
+h2 {
+    color: tomato;
+}

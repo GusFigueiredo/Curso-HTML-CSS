@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <H1>Imagem dinamica</H1>
+    <p>tente abrir em dispositivos diferentes ou aumente / diminue o zoom</p>
+
+    <picture>
+        <source media="(max-width: 750px)" srcset="IMG/P.png" type="image/png">
+
+        <source media="(max-width: 1050px )" srcset="IMG/M.png" type="image/png">
+        <img src="IMG/G.png" alt="">
+    </picture>
+
+    <h1>Reproduzindo audio</h1>
+    <audio src="midia/HINO DO BOTAFOGO-RJ.mp3" controls></audio>
+</body>
+</html>

@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(116, 240, 126, 0.226);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(6, 90, 6);
+}
+
+h1#principal {
+    text-align: center;
+    background-color: rgb(6, 90, 6);
+    color:white
+}
+
+h2 {
+    color: rgb(22, 139, 22);
+}
